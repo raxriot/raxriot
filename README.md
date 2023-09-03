@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Shavez
-- 👀 I’m interested in Researching and learning about computer science
-- 🌱 I’m currently learning how to code in python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (shvezahmed9966@gmail.com)
+-  Hi, I’m Shavez
+-  I’m interested in Researching and learning about computer science
+-  I’m currently learning how to code in python
+- 📫 How to reach me (shvezahmed9966@gmail.com), 
 
 <!---
 raxriot/raxriot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
